@@ -196,7 +196,10 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 ## Activity Graph 📊 :
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Karimashour&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
+
+![Snake animation](https://github.com/Karimashour/Karimashour/blob/output/github-contribution-grid-snake.svg)
 <!---
 Karimashour/Karimashour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
