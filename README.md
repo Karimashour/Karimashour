@@ -5,6 +5,12 @@
 
 <br>
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+
+	
+![Snake animation](https://github.com/Karimashour/Karimashour/blob/output/github-contribution-grid-snake.svg)
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -203,12 +209,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </p>
 
 <hr>
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-
-	
-![Snake animation](https://github.com/Karimashour/Karimashour/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
